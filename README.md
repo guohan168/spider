@@ -1,2 +1,16 @@
 # spider
 汽车网站爬虫
+数据库为spider.sql
+vcarBbsSelenium 汽车家论坛爬虫
+vcarBranSpider  汽车家品牌爬虫
+vcarConfigSpider 汽车家配置爬虫
+vcarDealerSpider 汽车家经销商爬虫
+vcarDetailSpider 车型详情页爬虫
+vcarGzdSpider 关注度爬虫
+vcarScoreKouBei 口碑评分爬
+vcarScoreSeleniumSpider 评分爬虫
+vcarSeriesExtSpider 车系扩展信息爬虫
+vcarSeriesSpider 车系爬虫
+vcarSpecSpider 车型爬虫
+vcarUserKouBeiSelenium 用户口碑爬虫
+vcarUserSpider 用户信息爬虫
