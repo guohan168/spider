@@ -1,0 +1,9 @@
+
+
+
+
+class KouBeiSpider(object):
+
+
+
+    pass
